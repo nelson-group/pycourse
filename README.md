@@ -7,5 +7,5 @@ taught by Dylan Nelson. Semesters offered:
 Email with any questions or suggestions: dnelson@uni-heidelberg.de
 
 The lectures (Jupyter notebooks) have been partly inspired by previous contributions from 
-Thomas Robitaille, Markus Demleitner, Robert Schmidt, Yiannis Tsapras, and Guilia Despali.
+Thomas Robitaille, Markus Demleitner, Robert Schmidt, Yiannis Tsapras, and Giulia Despali.
 
