@@ -7,8 +7,7 @@ with at least some prior programming experience.
 
 Semesters offered:
 
-* WS 24/25 (Group 4) Feb 17 - Feb 21, 2025 (Hörsaal of Phil 12, i.e. the old ivy-covered lecture building, Albert-Ueberle-Str. 7)
-  * If this room sucks, we will potentially move elsewhere. BRING YOUR OWN LAPTOP.
+* WS 24/25 (Group 4) Feb 17 - Feb 21, 2025 (Hörsaal of Phil 12, i.e. the old ivy-covered lecture building, Albert-Ueberle-Str. 7) - Bring your own laptop!
 
 * WS 22/23 (Group 7) Mar 27 - Mar 31, 2023 (Phil 12 CIP)
   
